@@ -1,0 +1,10 @@
+
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ricardoreyes.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["88:A5:CC:6C:B1:69:2E:7B:BC:0C:3C:0E:89:AA:94:68:48:6D:63:2B:C4:8B:13:18:FC:2A:C7:A3:A3:77:16:59"]
+    }
+  }]
